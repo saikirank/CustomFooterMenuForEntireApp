@@ -1,1 +1,1 @@
-# CustomFooterMenuForEntireApp This example shows how to add custom footer menu for the entire iOS app using container view concept using story board
+This example shows how to add custom footer menu for the entire iOS app using container view concept using story board. Please look into the main story board file for the conatiner view and common footer view for the configuration details.
